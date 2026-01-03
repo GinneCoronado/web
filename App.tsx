@@ -6,6 +6,7 @@ import Skills from './components/Skills';
 import HubSpotExpertise from './components/HubSpotExpertise';
 import ScrollToTop from './components/ScrollToTop';
 import { EXPERIENCES } from './constants';
+import fotoPerfil from './images/PerfilGinne.jpeg';
 
 const App: React.FC = () => {
   return (
